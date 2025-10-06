@@ -1,7 +1,7 @@
 agent-healthcheck-interval = 5
 
 [database]
-host = "localhost"
+host = "db"
 user = "skrillax"
 password = "skrillax"
 database = "skrillax"
