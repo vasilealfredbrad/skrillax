@@ -1,0 +1,8 @@
+//////LINK URL PATH
+//////////4000~4999 -> ±Û·Î¹ú
+{ 1, "http://www.silkroadonline.net" },						//homepage
+{ 2, "http://www.joymax.com/silkroad/property_front.aspx?workURL=http://silkroadcp.joymax.com/teaser/legend6_update/main.asp" },		                  	//movie
+{ 3, "http://www.joymax.com/silkroad/Property_Front.aspx?workURL=http://silkroadcp.joymax.com/guide/ct_guide.asp" },		//guide
+{ 4, "http://www.joymax.com/silkroad/Property_Front.aspx?workURL=http://silkroadcp.joymax.com/dataroom/download.asp" },				//download direct x
+{ 5, "http://www.joymax.com/silkroad/Property_Front.aspx?workURL=http://silkroadcp.joymax.com/dataroom/download.asp" },			//download full game
+

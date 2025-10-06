@@ -1,0 +1,38 @@
+
+1. Data : 오브젝트 데이터
+	- Prim : 오브젝트 최소 단위 데이터 - 메쉬(bms),머트리얼(bmt),매핑 소스(ddj),뼈대(bsk),에니메이션(ban),사운드(wav)
+	- Res  : Prim 데이터를 조합해서 실제 하나의 오브젝트를 구성(bsr)
+	- Compound : Res 데이터를 조합한 오브젝트(cpd:NPC 가 갑옷을 입은 경우)
+2. Map	: 맵 데이터
+	- MapInfo.mfo : 생성된 리젼 리스트를 갖고 있다.
+	- Environment.ifo : 맵의 환경 리스트를 갖고 있다.
+	- Tile2D.ifo : 디테일 타일 정보
+	- Config.ifo : 맵툴 설정 저장
+	
+	- Material : 통맵 매핑 소스
+	- Weather : 날씨
+	- Water : 물 효과
+	- Tile2D : 디테일 타일 데이터
+	- Sun : 해, 달 효과
+	- SkyBox : 하늘 매핑 소스
+	- 
+
+3. Media : 게임 전반적인 기타 데이터
+	- config : 게임 설정 관련
+	- resinfo : 게임 인터페이스 텍스트 파일
+	- skilldata : 스킬 텍스트 파일
+	- cursor : 마우스 커서
+	- icon : 게임에 사용될 2D 아이콘
+	- interface : 외부, 내부 2D 인터페이스 매핑 소스
+		- ???
+	- minimap : 미니맵 매핑 소스
+4. Music : 배경음(mp3)
+5. Particles: 파티클
+	- 파티클 데이터 파일(*.EFF)
+	- Textures (파티클 매핑 소스 *.ddj)
+	- Meshes (파티클 메쉬 *.bms) - 캐릭터 툴과 데이터 동일
+	- Animations (파티클 에니메이션 *.ban)
+6. navmesh : 캐릭 걷기를 위한 스텝 메쉬 정보
+
+
+

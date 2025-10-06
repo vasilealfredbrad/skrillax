@@ -1,0 +1,12 @@
+//이벤트 코드네임	리전X	리전Y	아군 의상	동맹 의상	적군 의상	강제성 여부 
+Clothes_event_roc	190	102	green	green	green	0
+Clothes_event_roc	190	101	green	green	green	0
+Clothes_event_roc	190	100	green	green	green	0
+Clothes_event_roc	189	102	green	green	green	0
+Clothes_event_roc	189	101	green	green	green	0
+Clothes_event_roc	189	100	green	green	green	0
+Clothes_event_roc	189	99	green	green	green	0
+Clothes_event_roc	188	102	green	green	green	0
+Clothes_event_roc	188	101	green	green	green	0
+Clothes_event_roc	188	100	green	green	green	0
+Clothes_event_roc	188	99	green	green	green	0
