@@ -1,7 +1,0 @@
-//StartProcess = "CPSLoadingMission"
-StartProcess = "CPSVersionCheck"
-//Map = "0"
-StartCharacter = "1907"
-StartWeapon = "0"
-IntroName = "script\intro\arabia.txt"
-IntroBGM = "arabia_town.ogg"
